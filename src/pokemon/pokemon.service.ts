@@ -102,4 +102,6 @@ export class PokemonService {
       `Can't create Pokemon - Check server logs`,
     );
   }
+
+  insertPokemonsBD() {}
 }
